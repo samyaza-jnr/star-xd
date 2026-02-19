@@ -11,3 +11,5 @@ module.exports = {
   PAIRING_NUMBER: '', // In Case if you don't have session id get pairing code by putting your number here
   TIMEZONE: 'Africa/Harare' // ur timezone
 };
+global.autoStatusRead = true
+global.autoTyping = true
